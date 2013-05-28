@@ -1,0 +1,5 @@
+{"ts":1369759483752,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<?php\n// A simple web site in Cloud9 that runs through Apache\n// Press the 'Run' button on the top to start the web server,\n// then click the URL that is emitted to the Output tab of the console\n\necho 'Hello world from Cloud9!';\n\n?>\n"]],"start1":0,"start2":0,"length1":0,"length2":233}]],"length":233}
+{"contributors":[],"silentsave":true,"ts":1369759517856,"patch":[[{"diffs":[[0,"oud9!';\n"],[1,"php"],[0,"\n?>\n"]],"start1":221,"start2":221,"length1":12,"length2":15}]],"length":236,"saved":false}
+{"ts":1369759519481,"patch":[[{"diffs":[[0,"9!';\nphp"],[1,"inf"],[0,"\n?>\n"]],"start1":224,"start2":224,"length1":12,"length2":15}]],"length":239,"saved":false}
+{"ts":1369759520622,"patch":[[{"diffs":[[0,";\nphpinf"],[1,"o()"],[0,"\n?>\n"]],"start1":227,"start2":227,"length1":12,"length2":15}]],"length":242,"saved":false}
+{"ts":1369759521410,"patch":[[{"diffs":[[0,"hpinfo()"],[1,";"],[0,"\n?>\n"]],"start1":230,"start2":230,"length1":12,"length2":13}]],"length":243,"saved":false}
