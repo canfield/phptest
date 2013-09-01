@@ -1,0 +1,3 @@
+{"ts":1374754292196,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"bind 127.12.77.1\\nport 16379\n"]],"start1":0,"start2":0,"length1":0,"length2":29}]],"length":29}
+{"contributors":[],"silentsave":true,"ts":1374754297086,"patch":[[{"diffs":[[0,"77.1"],[-1,"\\n"],[0,"port"]],"start1":12,"start2":12,"length1":10,"length2":8}]],"length":27,"saved":false}
+{"ts":1374754298130,"patch":[[{"diffs":[[0,".12.77.1"],[1,"\n"],[0,"port 163"]],"start1":8,"start2":8,"length1":16,"length2":17}]],"length":28,"saved":false}
